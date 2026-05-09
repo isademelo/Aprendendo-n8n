@@ -226,7 +226,6 @@ class VerificarSeEhImparOuPar{
         }
     }
 }
-
 //6- Crie um programa que solicite ao usuário um número e calcule o fatorial desse número.
 
 class CalcularOFatorialDeUmNumero{
