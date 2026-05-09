@@ -2,6 +2,7 @@ import java.util.Scanner;
 //1- Crie um programa que solicite ao usuário digitar um número. Se o número for positivo, exiba "Número positivo", caso contrário, exiba "Número negativo".
 //2- Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são iguais, diferentes, o primeiro é maior ou o segundo é maior.
 public class AtividadesComplementaresControlandoFluxos {
+    
     public static void main(String[] args){
         DescobrirSeEhNegativoOuPositivo.descobrir();
         CalculadoraGeometrica.calcularGeometria();
