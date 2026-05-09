@@ -59,7 +59,8 @@ class CalculadoraGeometrica{
                 2 - Cálculo de Volumes
                 3 - Sair
                 =============================================
-                Digite a opção desejada:\s""";
+                Digite a opção desejada:\s
+                """;
         System.out.println(menu);
         byte opcaoMenu = entrada.nextByte();
         byte opcaoSubMenu;
