@@ -10,14 +10,13 @@ public class AtividadesComplementaresControlandoFluxos {
         CalcularOFatorialDeUmNumero.calcularOFatorialDeUmNumero();
     }
 }
-
-
 class DescobrirSeEhNegativoOuPositivo {
     public static void descobrir (){
         int numero = 0;
         int num1 = 0;
         int num2 = 0;
-
+        int numalgumacoisa = 123;
+    
         Scanner entrada = new Scanner(System.in);
         System.out.println("Bem-vindo ao analisador de números! Prepare-se para descobrir a natureza do valor digitado.\nDigite um número e iremos verificar se é um número positivo ou negativo: ");
         numero = entrada.nextInt();
