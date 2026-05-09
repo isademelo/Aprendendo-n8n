@@ -35,7 +35,6 @@ class DescobrirSeEhNegativoOuPositivo {
         num1 = entrada.nextInt();
         System.out.println("Insira o segundo número: ");
         num2 = entrada.nextInt();
-
         if (num1 != num2){
             if (num1 > num2) {
                 System.out.println(String.format("Os números são diferentes. O número 1 (%d) é maior que o número 2 (%d) ", num1, num2));
