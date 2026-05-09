@@ -10,6 +10,7 @@ public class AtividadesComplementaresControlandoFluxos {
         CalcularOFatorialDeUmNumero.calcularOFatorialDeUmNumero();
     }
 }
+
 class DescobrirSeEhNegativoOuPositivo {
     public static void descobrir (){
         int numero = 0;
